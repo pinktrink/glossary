@@ -9,7 +9,7 @@
 | ,         | tail            |                 |
 | ;         | hybrid          |                 |
 | #         | mesh            | waffle          |
-| =         | half-mesh       | waff            |
+| =         | half-mesh       | waf             |
 | '         | spark           |                 |
 | `         | backspark       |                 |
 | !         | wow             |                 |
@@ -77,3 +77,4 @@
 | Monoid       | mono-id                                                                          | madonna               |                                                                |
 | Semigroup    | convoy                                                                           |                       |                                                                |
 | Semigroupoid | convoid                                                                          |                       |                                                                |
+| #            | hashkell                                                                         |                       |                                                                |
